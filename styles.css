@@ -1,0 +1,270 @@
+body{
+    font-size: 13px;
+    font-family: "Barlow", Semi Condensed, sans-serif;
+    color: white;
+    background-color: hsl(210, 46%, 95%);
+    letter-spacing: 1px;
+    margin: 0;
+    padding: 0;
+
+}
+
+p {
+    color: white;
+    opacity: 70%;
+}
+
+
+.Daniel-text-block {
+    background-color: hsl(263, 55%, 52%);
+    border-radius: 10px;
+    width: 725px;
+    height: 325px;
+    position: absolute;
+    top: 25%;
+    left: 12%;
+}
+
+.Daniel-text-block h1 {
+    font-size: 13px;
+    position: absolute;
+    left: 9%;
+    top: 6%;
+}
+
+.Daniel-text-block h2 {
+    color: white;
+    opacity: 50%;
+    font-size: 10px;
+    position: absolute;
+    top: 11%;
+    left: 9%;
+}
+
+.Daniel-text-block h3 {
+    position: relative;
+    font-size: 20px;
+    top: 18%;
+    left: 5%;
+    z-index: 2;
+}
+
+.Daniel-text-block p {
+    position: relative;
+    top: 21%;
+    left: 5%;
+    line-height: 20px;
+    letter-spacing: 0px;
+}
+
+.Daniel-text-block img {
+    position: absolute;
+    bottom: 68%;
+    left: 66%;
+    z-index: 1;
+}
+
+.Daniel-profile-img img {
+    border-radius: 50%;
+    position: absolute;
+    top: 8%;
+    left: 3%;
+    width: 27px;
+    height: 27px;
+}
+
+.Johathan-text-block {
+    background-color: hsl(217, 19%, 35%);
+    border-radius: 10px;
+    width: 275px;
+    height: 325px;
+    position: absolute;
+    top: 25%;
+    left: 53.6%;
+}
+
+.Johathan-text-block h4 {
+    font-size: 20px;
+    position: relative;
+    top: 2%;
+    left: 8%;
+}
+
+.Johathan-text-block p {
+    position: relative;
+    left: 8%;
+    line-height: 20px;
+    letter-spacing: 0px;
+}
+
+.Johathan-text-block h2 {
+    font-size: 13px;
+    position: relative;
+    top: 5%;
+    left: 20%;
+}
+
+.Johathan-text-block h3 {
+    position: relative;
+    font-size: 10px;
+    top: 1%;
+    left: 21%;
+    opacity: 50%;
+}
+
+.Johathan-profile-img img {
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 28%;
+    left: 55%;
+}
+
+.Kira-text-block {
+    background-color: white;
+    color: hsl(217, 19%, 35%);
+    border-radius: 10px;
+    width: 275px;
+    height: 625px;
+    position: absolute;
+    top: 25%;
+    left: 72%;
+}
+
+.Kira-text-block h4 {
+    font-size: 20px;
+    position: relative;
+    top: 1%;
+    left: 8%;
+}
+
+.Kira-text-block p {
+    color: hsl(217, 19%, 35%);
+    position: relative;
+    left: 8%;
+    line-height: 20px;
+    letter-spacing: 0px;
+    word-spacing: -1px;
+}
+
+.Kira-text-block h2 {
+    position: relative;
+    top: 2%;
+    left: 18%;
+    font-size: 13px;
+}
+
+.Kira-text-block h3 {
+    position: relative;
+    left: 18%;
+    font-size: 10px;
+    opacity: 50%;
+}
+
+.Kira-profile-img img {
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 3%;
+    left: 3%;
+}
+
+.Jeanette-text-block{
+    background-color: white;
+    color: hsl(217, 19%, 35%);
+    border-radius: 10px;
+    width: 275px;
+    height: 275px;
+    position: absolute;
+    top: 63%;
+    left: 12%;
+}
+
+.Jeanette-text-block p {
+    color: hsl(217, 19%, 35%);
+    position: relative;
+    left: 14%;
+    line-height: 20px;
+    letter-spacing: 0px;
+    word-spacing: -1px;
+    top: 1%;
+}
+
+.Jeanette-text-block h4 {
+    font-size: 20px;
+    position: relative;
+    left: 14%;
+}
+
+.Jeanette-text-block h3 {
+    font-size: 10px;
+    position: relative;
+    left: 30%;
+    top: -3%;
+    opacity: 50%;
+}
+
+.Jeanette-text-block h2 {
+    font-size: 13px;
+    position: relative;
+    left: 30%;
+}
+
+.Jeanette-profile-img img {
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 4%;
+    left: 15%;
+
+}
+.Patrick-text-block {
+    background-color: hsl(219, 29%, 14%);
+    border-radius: 10px;
+    width: 750px;
+    height: 275px;
+    position: absolute;
+    top: 63%;
+    left: 29%
+}
+
+.Patrick-text-block h2 {
+    position: relative;
+    left: 10%;
+    font-size: 13px;
+    top: 9%;
+}
+
+.Patrick-text-block h3 {
+    font-size: 10px;
+    opacity: 50%;
+    position: relative;
+    left: 10%;
+    top: 6%;
+}
+
+.Patrick-text-block p {
+    position: relative;
+    left: 6%;
+}
+
+.Patrick-text-block h4 {
+    position: relative;
+    left: 6%;
+    font-size: 20px;
+}
+
+.Patrick-profile-img img {
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 13%;
+    left: 5%;
+}
+
+
+
